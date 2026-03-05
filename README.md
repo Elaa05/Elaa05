@@ -1,8 +1,8 @@
 <h1 align="center">✨ Hi, I'm Alaa Ben Aoun</h1>
-<h3 align="center">🚀 Full-Stack & Mobile Developer | Flutter • Android • React</h3>
+<h3 align="center">🚀 Full-Stack & Mobile Developer | Android , Flutter </h3>
 
 <p align="center">
-Passionate about building scalable mobile & web applications with clean architecture and modern technologies.
+Passionate about building scalable mobile applications with clean architecture and modern technologies.
 Focused on performance, user experience, and real-world impact.
 </p>
 
@@ -11,7 +11,7 @@ Focused on performance, user experience, and real-world impact.
 ### 👩‍💻 About Me
 
 - 💼 Full-Stack Developer specialized in Mobile & Web
-- 📱 3+ years building cross-platform and native apps
+- 📱 4+ years building cross-platform and native apps
 - 🌍 Based in Canada
 - 🎯 Currently looking for new opportunities
 - 🧠 Always learning, always building
